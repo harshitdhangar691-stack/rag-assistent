@@ -1,0 +1,12 @@
+[
+  {
+    "id":"1",
+    "title":"Leave Policy",
+    "content":"Employees work from 9 AM to 6 PM and get 12 annual leaves."
+  },
+  {
+    "id":"2",
+    "title":"Remote Policy",
+    "content":"Employees can work remotely two days a week with approval."
+  }
+]
